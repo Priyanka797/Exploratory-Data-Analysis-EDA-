@@ -11,8 +11,6 @@ This project demonstrates **Exploratory Data Analysis (EDA)** using Python to un
 ## 🛠️ Tech Stack
 - **Python**
 - **Pandas, NumPy** – data manipulation
-- **Matplotlib, Seaborn, Plotly** – visualization
-- **Jupyter Notebook** – interactive analysis
+- **Matplotlib, Seaborn** – visualization
 
-## 📂 Project Structure
 
